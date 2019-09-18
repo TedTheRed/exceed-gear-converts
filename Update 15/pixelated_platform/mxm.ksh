@@ -1,4 +1,4 @@
-﻿title=
+﻿title=Pixelated Platform
 artist=
 effect=
 jacket=.jpg
