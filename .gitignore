@@ -1,0 +1,5 @@
+# ignore zip files
+*.zip
+
+# ignore releases directory
+Releases/
