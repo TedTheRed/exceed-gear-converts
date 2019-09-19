@@ -1,12 +1,12 @@
 ﻿title=AXION
-artist=
+artist=削除
 effect=
-jacket=.jpg
+jacket=jak.jpg
 illustrator=
 difficulty=infinite
-level=1
-t=120
-m=.mp3
+level=17
+t=160
+m=mxm.ogg
 o=0
 bg=desert
 layer=arrow

@@ -1,12 +1,12 @@
 ﻿title=Pixelated Platform
-artist=
+artist=pan
 effect=
-jacket=.jpg
+jacket=jak.png
 illustrator=
 difficulty=infinite
-level=1
-t=120
-m=.mp3
+level=17
+t=137
+m=mxm.ogg
 o=0
 bg=desert
 layer=arrow
