@@ -4,15 +4,9 @@ effect=
 jacket=jak.jpg
 illustrator=
 difficulty=infinite
-<<<<<<< HEAD
 level=17
 t=160
 m=mxm.ogg
-=======
-level=1
-t=160
-m=.mp3
->>>>>>> 9fd424ea2a9c6c8093a8e623b687e4614deab817
 o=0
 bg=desert
 layer=arrow
