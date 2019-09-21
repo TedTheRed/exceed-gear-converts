@@ -1,9 +1,8 @@
 # Ignore everything
-*
+/*
 
 # Except these
 !/Updates/
-!/Updates/*
 !*.ksh
 !*.ogg
 !*.wav
