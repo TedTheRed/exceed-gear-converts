@@ -1,5 +1,13 @@
-# ignore zip files
-*.zip
+# Ignore everything
+*
 
-# ignore releases directory
-Releases/
+# Except these
+!/Updates/
+!/Updates/*
+!*.ksh
+!*.ogg
+!*.wav
+!*.jpg
+!*.png
+!*.md
+!.gitignore
