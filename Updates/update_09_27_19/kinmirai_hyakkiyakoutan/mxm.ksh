@@ -1,0 +1,24 @@
+﻿title=近未来百鬼夜行譚～死返之巻～
+artist=近未来妖怪活劇をかぼちゃが謡う！　いざ！
+effect=
+jacket=mxm.png
+illustrator=
+difficulty=infinite
+level=17
+t=165
+m=mxm.ogg
+o=0
+bg=desert
+layer=arrow
+po=0
+plength=15000
+pfiltergain=0
+filtertype=peak
+chokkakuautovol=0
+chokkakuvol=0
+icon=../sdvx05.png
+ver=167
+--
+beat=4/4
+0000|00|--
+--
