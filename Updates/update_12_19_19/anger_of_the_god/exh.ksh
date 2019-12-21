@@ -1,4 +1,4 @@
-﻿title=ANGER of the GOD(EXIT TUNES)
+﻿title=ANGER of the GOD
 artist=BlackY
 effect=七色メットスクリューズ
 jacket=jak.jpg
